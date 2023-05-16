@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/oguzhancaner06" target="blank"><img src="https://img.shields.io/twitter/follow/oguzhancaner06?logo=twitter&style=for-the-badge" alt="oguzhancaner06" /></a> </p>
 
-- 🔭 I’m currently working in **Etiya**
-
 - 🌱 I’m currently learning **Microservice Architectures**
 
 - 👯 I’m looking to collaborate on **Java and Java Technologies**
